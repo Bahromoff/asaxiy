@@ -1,0 +1,30 @@
+.fouter-con{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(0, 149, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    padding: 10px 85px;
+}
+
+.ichki-futer{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 140px;
+    border-radius: 20px;
+    margin-top: -176px;
+}
+
+.footer-top-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 100px;
+    margin-top: 25px;
+    /* background-color: red; */
+}
+
+
+
